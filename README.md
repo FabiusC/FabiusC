@@ -5,7 +5,7 @@ Hi, I'm Fabio Cardona!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<img alt="Banner Fabius" src="./assets/Cover.png" width='100%'/>
+<img alt="Banner Fabius" src="./assets/Cover.png" width='100%' max-heigh='400px'/>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Fabio Cardona</h2>
 
 ### 🤩 &nbsp;About Me
