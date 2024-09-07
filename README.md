@@ -3,14 +3,14 @@
 Welcome to my GitHub! I’m Fabio, a passionate software engineer and developer with expertise in web development, video game creation, database management, UML design, and version control with Git. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ### 🌟 About Me
-- 📖 Studying in Distrital University Francisco Jose de Caldas in Bogota Colombia <p>U+1F1E8<p>.
+- 📖 Studying in Distrital University Francisco Jose de Caldas in Bogota Colombia 💛💙❤️.
 - 🌱 Learning about AI, advanced algorithms, and improving my skills in modern web frameworks.
 - 👯 Looking to collaborate on innovative software projects, especially in AI and game development.
 
 ### 🛠️ Skills
-- **Web Development**: Proficient in JavaScript, Angular, TypeScript, React, HTML, and CSS.
+- **Web Development**: Proficient in Angular, React, TypeScript, JavaScript HTML, and CSS.
 - **Game Development**: Creating interactive and engaging experiences.
-- **Database Management**: Skilled in SQL, relational models, and basic knowledge of non-relational databases.
+- **Database Management**: Skilled in PostgreSQL, relational models, and basic knowledge of non-relational databases.
 - **UML Design**: Experienced with use case, class, activity, state, sequence, and other UML diagrams.
 - **Version Control**: Knowledgeable in Git and GitHub workflows.
 
@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m Fabio, a passionate software engineer and developer 
 
 #### 🖥️ Process Control Block Simulator
 **Description**: A project that simulates how the Process Control Block worked in older computers, focusing on RAM memory management algorithms.
-**[View Project](#)**
+**[View Project](https://memory-managment.netlify.app)**
 
 #### 🌐 Habitability Risk Visualization
 **Description**: A web-based system for visualizing habitability risks in a building. Uses graph visualization and animations with Three.js for an interactive experience.
