@@ -3,10 +3,9 @@
 Welcome to my GitHub! I’m Fabio, a passionate software engineer and developer with expertise in web development, video game creation, database management, UML design, and version control with Git. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ### 🌟 About Me
-- 🔭 I’m currently working on a project called "Air Quality Prediction" as part of my Cybernetics studies.
+- 📖 Studying in Distrital University Francisco Jose de Caldas in Bogota Colombia &#x1f1e8;.
 - 🌱 Learning about AI, advanced algorithms, and improving my skills in modern web frameworks.
 - 👯 Looking to collaborate on innovative software projects, especially in AI and game development.
-- 💬 Ask me about web development, game development, databases, or version control!
 
 ### 🛠️ Skills
 - **Web Development**: Proficient in JavaScript, Angular, TypeScript, React, HTML, and CSS.
