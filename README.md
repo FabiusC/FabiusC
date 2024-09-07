@@ -18,7 +18,7 @@ Welcome to my GitHub! I’m Fabio, a passionate software engineer and developer 
 
 #### 🎮 Tic Tac Toe with Minimax Algorithm
 **Description**: A classic Tic Tac Toe game implementing the Minimax algorithm to provide a challenging AI opponent. Looking to expand this project with an online multiplayer mode.
-**[View Project](#)**
+**[View Project](https://tictactoe-ai-minimax.netlify.app)**
 
 #### 🖥️ Process Control Block Simulator
 **Description**: A project that simulates how the Process Control Block worked in older computers, focusing on RAM memory management algorithms.
@@ -26,15 +26,13 @@ Welcome to my GitHub! I’m Fabio, a passionate software engineer and developer 
 
 #### 🌐 Habitability Risk Visualization
 **Description**: A web-based system for visualizing habitability risks in a building. Uses graph visualization and animations with Three.js for an interactive experience.
-**[View Project](#)**
+**[View Project](https://664eec8f48fb0fb9d669fa60--celadon-kheer-10de31.netlify.app)**
 
-#### 📊 Air Quality Prediction
-**Description**: A predictive model analyzing various factors affecting air quality, developed as part of my Cybernetics studies. Utilizes advanced data processing techniques and algorithms.
-**[View Project](#)**
+#### 📊 Packet Routing
+**Description**: A packet routing system through a graph where each node represents a modem, antenna, repeater, or server. The system simulates the transit of packets through a network, showing modifications in the network like link or node failures.
+**[View Project](https://662fbe5d0f5c5c3d0fc3f07d--adorable-bombolone-0fc98d.netlify.app)**
 
 ### 📫 Connect with Me
-- [LinkedIn](#)
-- [Twitter](#)
-- [Portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/fabiusc/)
 
 Let's create something great together!
