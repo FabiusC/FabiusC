@@ -9,11 +9,11 @@ Hi, I'm Fabio Cardona!
 <!-- Sección About Me con imagen a la derecha -->
 <div style="display: flex; flex-direction: column; gap: 20px; margin-top: 20px;">
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
-        <div style="max-width: 60%; display: flex; flex-direction: column; gap: 10px;">
-          <div style="display: flex; flex-direction: row; align-items: center;">
-            <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" width="20"/>
-            <h3>About Me</h3>
-          </div>
+        <div style="max-width: 60%; display: flex; flex-direction: column; flex-wrap: wrap; gap: 10px;">
+            <h3 style="display: flex; flex-direction: row; align-items: center;">
+                <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" width="20"/>
+                About Me
+            </h3>
             <ul>
                 <li>📖 Studying at Distrital University Francisco Jose de Caldas in Bogota Colombia 💛💙❤️.</li>
                 <li>🌱 Learning about AI, advanced algorithms, and improving my skills in modern web frameworks.</li>
@@ -21,7 +21,7 @@ Hi, I'm Fabio Cardona!
             </ul>
         </div>
         <div>
-            <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" style="width: 250px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" alt="About Me Image" />
+            <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" style="width: 200px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" alt="About Me Image" />
         </div>
     </div>
     <div style="margin-top: 20px;">
