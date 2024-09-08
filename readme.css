@@ -1,0 +1,50 @@
+/* Estilo general para el contenedor principal */
+.main-container {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+/* Imagen del banner alineada a la izquierda */
+.night-coding-img {
+    width: 280px;
+    margin-right: 20px;
+}
+
+/* Contenedor de habilidades */
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+}
+
+/* Título de secciones con íconos */
+.section-title {
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+/* Estilo general para las imágenes de las badges */
+.badge-img {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+/* Contenedor de las estadísticas de GitHub */
+.github-analytics {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Imágenes de GitHub Analytics */
+.github-analytics img {
+    height: 180px;
+    margin: 10px;
+}
