@@ -67,7 +67,11 @@ Hi, I'm Fabio Cardona!
 </div>
 
 <!-- Sección de Github Analytics -->
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center; flex-wrap: wrap; margin-top: 20px;">
+  <h3 style="display: flex; align-items: center; gap: 10px; margin: 0;">
+            <img src="./assets/gear.gif" width="25" />
+            <b>Github Analytics</b>
+  </h3>
     <p>
         <a href="https://github.com/Adityakanoi2001">
             <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabiusC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="height: 180px; margin: 10px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
