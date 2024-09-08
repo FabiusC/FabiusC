@@ -9,7 +9,6 @@ Hi, I'm Fabio Cardona!
 <div class="main-container">
     <!-- Imagen a la izquierda -->
     <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" class="night-coding-img" alt="Night Coding" />
-
     <!-- Contenido con el título y las badges a la derecha -->
     <div>
         <h3 class="section-title">
@@ -32,7 +31,6 @@ Hi, I'm Fabio Cardona!
         </div>
     </div>
 </div>
-
 <div class="github-analytics">
     <p>
         <a href="https://github.com/Adityakanoi2001">
