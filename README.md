@@ -8,9 +8,9 @@ Hi, I'm Fabio Cardona!
 
 <!-- Sección About Me con imagen a la derecha -->
 <div style="display: flex; flex-direction: column; gap: 20px; margin-top: 20px;">
-    <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
         <div style="max-width: 60%; display: flex; flex-direction: column; gap: 10px;">
-          <div style="display: flex; flex-direction: row;">
+          <div style="display: flex; flex-direction: row; align-items: center;">
             <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" width="20"/>
             <h3>About Me</h3>
           </div>
