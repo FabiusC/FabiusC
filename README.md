@@ -3,33 +3,26 @@ Hi, I'm Fabio Cardona!
     <a href="https://github.com/FabiusC" target="_self">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
     </a>
+    <img style="border-radius: 8px; width:90%;" alt="Banner" src="./assets/Cover.png">
 </h1>
 
-<div align="center">
-<img style="border-radius: 8px;" height="300" width="700" alt="Banner" src="./assets/Cover.png">
-</div>
-
-</br>
-</br>
-
-# About ME 💬 :
+## <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" width ="25"><b> About me</b>
 
 <img height="200" width="250" align="right" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" alt="About Me Image">
 
-### - 📖 Studying at Distrital University Francisco Jose de Caldas in Bogota, Colombia 💛💙❤️.
-### - 🌱 Learning about AI, advanced algorithms, and improving my skills in modern web frameworks.
-### - 🤝 Looking to collaborate on innovative software projects, especially in AI and game development.
+- 📖 Studying at Distrital University Francisco Jose de Caldas in Bogota, Colombia 💛💙❤️.
+- 🌱 Learning about AI, advanced algorithms, and improving my skills in modern web frameworks.
+- 🤝 Looking to collaborate on innovative software projects, especially in AI and game development.
 </br>
 </br>
 
-# Connect with Me :
-
+## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-33-168_512.gif" width ="25"><b> Connect with me</b>
 <p>
     <a href="mailto:tu-email@gmail.com">
-        <img align="left" alt="Gmail" width="130" height="50" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
+        <img align="left" alt="Gmail" width="100" height="30" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/FabiusC">
-        <img align="left" alt="LinkedIn" width="150" height="50" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img align="left" alt="LinkedIn" width="100" height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
 
@@ -37,7 +30,7 @@ Hi, I'm Fabio Cardona!
 </br>
 </br>
 
-# Skills 👨‍💻 🛠:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div align="center">
     <img style="border-radius: 8px;" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="150" alt="Coding Image" align="left">
@@ -59,7 +52,7 @@ Hi, I'm Fabio Cardona!
 </br>
 </br>
 
-# Github Analytics 📊 :
+## <img src="./assets/gear.gif" width ="25"><b> Github Analytics</b>
 
 <div align="center">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabiusC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180px" alt="GitHub Stats" />
