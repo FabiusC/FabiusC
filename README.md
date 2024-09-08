@@ -10,9 +10,11 @@ Hi, I'm Fabio Cardona!
 
 <img height="200" width="250" align="right" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" alt="About Me Image">
 
-- 📖 Studying at Distrital University Francisco Jose de Caldas in Bogota, Colombia 💛💙❤️.
-- 🌱 Learning about AI, advanced algorithms, and improving my skills in modern web frameworks.
-- 🤝 Looking to collaborate on innovative software projects, especially in AI and game development.
+- 📖 Studying at Distrital University in Bogota, Colombia 💛💙❤️
+- 🌱 Learning about AI, advanced algorithms, and improving my skills in modern web frameworks
+- 🤝 Looking to collaborate on innovative software projects, especially in web and games development
+- 🐧 I'd like to work in software development with a company where I can learn
+- 🤩 I feel motivated working on projects that could improve my personal and professional skills
 </br>
 </br>
 
@@ -35,17 +37,20 @@ Hi, I'm Fabio Cardona!
 <div align="center">
     <img style="border-radius: 8px;" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="150" alt="Coding Image" align="left">
     <div style="display: flex; flex-wrap: wrap; width:60%; gap: 10px; padding: 10px; border-radius: 8px; background-color: #f0f0f0; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge">
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
         <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
-        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=C-sharp&logoColor=white" alt="C# Badge">
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge">
         <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
         <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
         <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+        </br>
+        </br>
         <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
         <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge">
         <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
         <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge">
+        <img src="https://img.shields.io/badge/Astro-%23FF5C77.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge">
     </div>
 </div>
 
