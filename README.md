@@ -5,7 +5,36 @@ Hi, I'm Fabio Cardona!
     </a>
 </h1>
 <img alt="Banner Fabius" src="./assets/Cover.png" width='100%' />
-
+<div class="main-container">
+    <!-- Imagen a la derecha -->
+    <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" class="right-aligned-img" alt="About Me Image" />
+    <!-- Sección de About Me -->
+    <div class="text-section">
+        <h3 class="section-title">
+            <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" width="25" />
+            <b>About Me</b>
+        </h3>
+        <ul>
+            <li>📖 Studying at Distrital University Francisco Jose de Caldas in Bogota Colombia 💛💙❤️.</li>
+            <li>🌱 Learning about AI, advanced algorithms, and improving my skills in modern web frameworks.</li>
+            <li>👯 Looking to collaborate on innovative software projects, especially in AI and game development.</li>
+        </ul>
+        <!-- Sección de Connect with Me -->
+        <h3 class="section-title">
+            <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-33-168_512.gif" width="25" />
+            <b>Connect with Me</b>
+        </h3>
+        <div class="contact-links">
+            <a href="mailto:tu-email@gmail.com">
+                <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" class="badge-img">
+            </a>
+            <a href="https://www.linkedin.com/in/FabiusC">
+                <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="badge-img">
+            </a>
+        </div>
+    </div>
+</div>
+<!-- Sección de Skills -->
 <div class="main-container">
     <!-- Imagen a la izquierda -->
     <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" class="night-coding-img" alt="Night Coding" />
@@ -31,6 +60,7 @@ Hi, I'm Fabio Cardona!
         </div>
     </div>
 </div>
+<!-- Sección de Github Analytics -->
 <div class="github-analytics">
     <p>
         <a href="https://github.com/Adityakanoi2001">
