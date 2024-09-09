@@ -3,7 +3,7 @@ Hi, I'm Fabio Cardona!
     <a href="https://github.com/FabiusC" target="_self">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
     </a>
-    <img style="border-radius: 8px; width:90%;" alt="Banner" src="./assets/Cover.png">
+    <img style="border-radius: 8px; width:90%;" alt="Banner" src="">
 </h1>
 
 ## <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" width ="25"><b> About me</b>
