@@ -56,8 +56,7 @@ Hi, I'm Fabio Cardona!
 
 </br>
 </br>
-
-#
+</br>
 
 ## <img src="./assets/gear.gif" width ="25"><b> Github Analytics</b>
 
