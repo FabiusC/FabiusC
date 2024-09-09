@@ -20,7 +20,7 @@ Hi, I'm Fabio Cardona!
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-33-168_512.gif" width ="25"><b> Connect with me</b>
 <p>
-    <a href="mailto:tu-email@gmail.com">
+    <a href="mailto:fabioandrescar05@gmail.com">
         <img align="left" alt="Gmail" width="100" height="30" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/FabiusC">
