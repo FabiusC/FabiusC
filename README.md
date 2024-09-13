@@ -63,7 +63,6 @@ Hi, I'm Fabio Cardona!
 <div align="center">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabiusC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180px" alt="GitHub Stats" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FabiusC&layout=compact&langs_count=8&theme=algolia" height="180px" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabiusC&theme=dark&hide_border=true" height="180px" alt="GitHub Streak" />
 </div>
 
 </br>
