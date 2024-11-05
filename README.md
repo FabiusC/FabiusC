@@ -37,6 +37,7 @@ Hi, I'm Fabio Cardona!
 <div align="center">
     <img style="border-radius: 8px;" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="150" alt="Coding Image" align="left">
     <div style="display: flex; flex-wrap: wrap; width:60%; gap: 10px; padding: 10px; border-radius: 8px; background-color: #f0f0f0; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+        <p>Languajes</p>
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
         <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
@@ -46,6 +47,7 @@ Hi, I'm Fabio Cardona!
         <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
         </br>
         </br>
+        <p>Frameworks</p>
         <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
         <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge">
         <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
